@@ -1,10 +1,10 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : KANGO-XMD 
+// @project_name : POWER-XMD 
 // @author : Hector 
-// @telegram : http://t.me/official_kango
-// @github : OfficialKango
-// @whatsapp : +233509977126
+// @telegram : http://t.me/nasirxcheat
+// @github : PowerxNasir
+// @whatsapp : +966593008766
 
 //----------------------[ KANGO-XMD ]----------------------//
 
