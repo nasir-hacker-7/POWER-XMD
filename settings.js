@@ -4,7 +4,7 @@
 // @author : Hector 
 // @telegram : http://t.me/nasirxcheat
 // @github : PowerxNasir
-// @whatsapp : +966593008766
+// @whatsapp : +93722731013
 
 //----------------------[ KANGO-XMD ]----------------------//
 
